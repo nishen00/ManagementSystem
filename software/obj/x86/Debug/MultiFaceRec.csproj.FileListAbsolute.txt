@@ -1,0 +1,235 @@
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\MultiFaceRec\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.Util.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\ZedGraph.dll
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Documents\FaceRecPro - copia\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecPro\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sergio Gutiérrez\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\New folder (2)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Form1.resources
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\USER\Desktop\New folder\software\bin\Debug\MultiFaceRec.exe
+C:\Users\USER\Desktop\New folder\software\bin\Debug\MultiFaceRec.pdb
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.Form1.resources
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.Home.resources
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.registationEmp.resources
+C:\Users\USER\Desktop\New folder\software\obj\x86\Debug\MultiFaceRec.camera.resources
+C:\Users\USER\Desktop\New folder\software\bin\Debug\AForge.dll
+C:\Users\USER\Desktop\New folder\software\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\USER\Desktop\New folder\software\bin\Debug\AForge.Video.dll
+C:\Users\USER\Desktop\New folder\software\bin\Debug\AForge.xml
+C:\Users\USER\Desktop\New folder\software\bin\Debug\AForge.Video.xml
+C:\Users\USER\Desktop\New folder\software\bin\Debug\AForge.Video.DirectShow.xml
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.exe
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.pdb
+E:\New folder\day9\New folder\software\bin\Debug\MultiFaceRec.exe
+E:\New folder\day9\New folder\software\bin\Debug\MultiFaceRec.pdb
+E:\New folder\day9\New folder\software\bin\Debug\AForge.dll
+E:\New folder\day9\New folder\software\bin\Debug\AForge.Video.DirectShow.dll
+E:\New folder\day9\New folder\software\bin\Debug\AForge.Video.dll
+E:\New folder\day9\New folder\software\bin\Debug\AForge.xml
+E:\New folder\day9\New folder\software\bin\Debug\AForge.Video.xml
+E:\New folder\day9\New folder\software\bin\Debug\AForge.Video.DirectShow.xml
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.camera.resources
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.Form1.resources
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.Home.resources
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.registationEmp.resources
+E:\New folder\day9\New folder\software\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.exe
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.pdb
+E:\New folder\day10\New folder\software\bin\Debug\MultiFaceRec.exe
+E:\New folder\day10\New folder\software\bin\Debug\MultiFaceRec.pdb
+E:\New folder\day10\New folder\software\bin\Debug\AForge.dll
+E:\New folder\day10\New folder\software\bin\Debug\AForge.Video.DirectShow.dll
+E:\New folder\day10\New folder\software\bin\Debug\AForge.Video.dll
+E:\New folder\day10\New folder\software\bin\Debug\AForge.xml
+E:\New folder\day10\New folder\software\bin\Debug\AForge.Video.xml
+E:\New folder\day10\New folder\software\bin\Debug\AForge.Video.DirectShow.xml
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.camera.resources
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.Form1.resources
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.Home.resources
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.registationEmp.resources
+E:\New folder\day10\New folder\software\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.exe
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.pdb
+E:\New folder\day11\New folder\software\bin\Debug\MultiFaceRec.exe
+E:\New folder\day11\New folder\software\bin\Debug\MultiFaceRec.pdb
+E:\New folder\day11\New folder\software\bin\Debug\AForge.dll
+E:\New folder\day11\New folder\software\bin\Debug\AForge.Video.DirectShow.dll
+E:\New folder\day11\New folder\software\bin\Debug\AForge.Video.dll
+E:\New folder\day11\New folder\software\bin\Debug\AForge.xml
+E:\New folder\day11\New folder\software\bin\Debug\AForge.Video.xml
+E:\New folder\day11\New folder\software\bin\Debug\AForge.Video.DirectShow.xml
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.camera.resources
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.Form1.resources
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.Home.resources
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.registationEmp.resources
+E:\New folder\day11\New folder\software\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.exe
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.pdb
+E:\New folder\day12\New folder\software\bin\Debug\MultiFaceRec.exe
+E:\New folder\day12\New folder\software\bin\Debug\MultiFaceRec.pdb
+E:\New folder\day12\New folder\software\bin\Debug\AForge.dll
+E:\New folder\day12\New folder\software\bin\Debug\AForge.Video.DirectShow.dll
+E:\New folder\day12\New folder\software\bin\Debug\AForge.Video.dll
+E:\New folder\day12\New folder\software\bin\Debug\AForge.xml
+E:\New folder\day12\New folder\software\bin\Debug\AForge.Video.xml
+E:\New folder\day12\New folder\software\bin\Debug\AForge.Video.DirectShow.xml
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.camera.resources
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.Form1.resources
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.Home.resources
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.registationEmp.resources
+E:\New folder\day12\New folder\software\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.exe
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.pdb
+E:\New folder\day14\New folder\software\bin\Debug\MultiFaceRec.exe
+E:\New folder\day14\New folder\software\bin\Debug\MultiFaceRec.pdb
+E:\New folder\day14\New folder\software\bin\Debug\AForge.dll
+E:\New folder\day14\New folder\software\bin\Debug\AForge.Video.DirectShow.dll
+E:\New folder\day14\New folder\software\bin\Debug\AForge.Video.dll
+E:\New folder\day14\New folder\software\bin\Debug\AForge.xml
+E:\New folder\day14\New folder\software\bin\Debug\AForge.Video.xml
+E:\New folder\day14\New folder\software\bin\Debug\AForge.Video.DirectShow.xml
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.camera.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.Form1.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.Home.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.registationEmp.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.signUpemp.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.EmpSearch.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.EmpLeft.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.emphistory.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.Clientcamara.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.clientHistory.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.Form2.resources
+E:\New folder\day14\New folder\software\obj\x86\Debug\MultiFaceRec.permenetClient.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.exe
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.pdb
+E:\my project\drugs control board\day24\New folder\software\bin\Debug\MultiFaceRec.exe
+E:\my project\drugs control board\day24\New folder\software\bin\Debug\MultiFaceRec.pdb
+E:\my project\drugs control board\day24\New folder\software\bin\Debug\AForge.dll
+E:\my project\drugs control board\day24\New folder\software\bin\Debug\AForge.Video.DirectShow.dll
+E:\my project\drugs control board\day24\New folder\software\bin\Debug\AForge.Video.dll
+E:\my project\drugs control board\day24\New folder\software\bin\Debug\AForge.xml
+E:\my project\drugs control board\day24\New folder\software\bin\Debug\AForge.Video.xml
+E:\my project\drugs control board\day24\New folder\software\bin\Debug\AForge.Video.DirectShow.xml
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.camera.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.Clientcamara.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.clientHistory.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.emphistory.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.EmpLeft.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.EmpSearch.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.Form1.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.Form2.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.Home.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.permenetClient.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.registationEmp.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.signUpemp.resources
+E:\my project\drugs control board\day24\New folder\software\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache

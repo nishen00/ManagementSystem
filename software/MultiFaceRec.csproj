@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CC813884-5D90-4044-9571-8FB7C54D9612}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MultiFaceRec</RootNamespace>
+    <AssemblyName>MultiFaceRec</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>E:\sofw\aforge\Release\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>E:\sofw\aforge\Release\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>E:\sofw\aforge\Release\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV, Version=2.2.1.1150, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=2.2.1.1150, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util, Version=2.2.1.1150, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode, Version=1.0.3541.23206, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="camera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="camera.Designer.cs">
+      <DependentUpon>camera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientcamara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientcamara.Designer.cs">
+      <DependentUpon>Clientcamara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clientHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clientHistory.Designer.cs">
+      <DependentUpon>clientHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emphistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emphistory.Designer.cs">
+      <DependentUpon>emphistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpLeft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpLeft.Designer.cs">
+      <DependentUpon>EmpLeft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpSearch.Designer.cs">
+      <DependentUpon>EmpSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="permenetClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="permenetClient.Designer.cs">
+      <DependentUpon>permenetClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="registationEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registationEmp.Designer.cs">
+      <DependentUpon>registationEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signUpemp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signUpemp.Designer.cs">
+      <DependentUpon>signUpemp.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="camera.resx">
+      <DependentUpon>camera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientcamara.resx">
+      <DependentUpon>Clientcamara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clientHistory.resx">
+      <DependentUpon>clientHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emphistory.resx">
+      <DependentUpon>emphistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpLeft.resx">
+      <DependentUpon>EmpLeft.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpSearch.resx">
+      <DependentUpon>EmpSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="permenetClient.resx">
+      <DependentUpon>permenetClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="registationEmp.resx">
+      <DependentUpon>registationEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signUpemp.resx">
+      <DependentUpon>signUpemp.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Donate.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\267747-popular-background-images-2560x1600-for-mac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6558817-photo-background-images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-dock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-background_00313351.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carl Website Updates 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-up-studio-shot-of-fresh-green-basil-herb-leaves-isolated-on-white-background-sweet-genovese-basil_1205-1718.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correct-mark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross-circular-button-outline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dsad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dsadas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook-silhouette.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fdsfdsf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google-plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-customer-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_basics-22_296812 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user-01_186382.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_63205.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IOFBj8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\L5hsx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-arrows.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mjhgmjghhgf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navigation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubbish-bin-delete-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sky-blue-color-wallpaper-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-picture %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-christmas-light-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-wallpaper-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wp-image-143728148.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_start-here-gnome-white_25268.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash-register %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
